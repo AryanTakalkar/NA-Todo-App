@@ -1,12 +1,5 @@
 # Dependencies
-/node_modules
-
-# Testing
-/coverage
-
-# Production
-/build
-/dist
+node_modules
 
 # Environment variables
 .env
